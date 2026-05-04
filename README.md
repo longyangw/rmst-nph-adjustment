@@ -96,7 +96,7 @@ If you use this code, please cite:
 
 ## Contact
 
-Longyang Wu — `Longyang.wu@gmail.com`
+Longyang Wu — `lwu@uwaterloo.ca`
 
 ## License
 
