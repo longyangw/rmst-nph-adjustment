@@ -2,7 +2,7 @@
 
 R code accompanying the manuscript:
 
-> **Wu, L. (2026).** Restricted Mean Survival Time Under Non-Proportional Hazards: How Much Power Can Covariate Adjustment Recover? *Submitted to Statistics in Medicine.*
+> **Wu, L. (2026).** Restricted Mean Survival Time Under Non-Proportional Hazards: How Much Power Can Covariate Adjustment Recover? *Working paper.*
 
 ## Overview
 
@@ -89,8 +89,8 @@ If you use this code, please cite:
   title   = {Restricted Mean Survival Time Under Non-Proportional
              Hazards: How Much Power Can Covariate Adjustment Recover?},
   journal = {Statistics in Medicine},
-  year    = {2025},
-  note    = {Submitted}
+  year    = {2026},
+  note    = {Working paper}
 }
 ```
 
