@@ -2,7 +2,7 @@
 
 R code accompanying the manuscript:
 
-> **Wu, L. (2026).** Restricted Mean Survival Time Under Non-Proportional Hazards: How Much Power Can Covariate Adjustment Recover? *Submitted to Statistics in Medicine.*
+> **Wu, L. (2026).**A Weighting Identity for Restricted Mean Survival Time Under Non-Proportional Hazards: Structural Limits of Covariate Adjustment? *Working paper.*
 
 ## Overview
 
@@ -86,11 +86,10 @@ If you use this code, please cite:
 ```bibtex
 @article{Wu2025RMST,
   author  = {Wu, Longyang},
-  title   = {Restricted Mean Survival Time Under Non-Proportional
-             Hazards: How Much Power Can Covariate Adjustment Recover?},
-  journal = {Statistics in Medicine},
+  title   = {A Weighting Identity for Restricted Mean Survival Time Under Non-Proportional
+             Hazards: Structural Limits of Covariate Adjustment.},
   year    = {2025},
-  note    = {Submitted}
+  note    = {Working paper}
 }
 ```
 
