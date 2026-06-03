@@ -88,7 +88,6 @@ If you use this code, please cite:
   author  = {Wu, Longyang},
   title   = {A Weighting Identity for Restricted Mean Survival Time Under
             Non-Proportional Hazards: Structural Limits of Covariate Adjustment},
-  journal = {Statistics in Medicine},
   year    = {2026},
   note    = {Under review}
 }
